@@ -18,7 +18,7 @@ public class Steps_PlacingOrder {
     Config config = new Config();
 
     public Steps_PlacingOrder() throws IOException {
-    }
+    }//this new
 
     @Given("user navigated to Home page and clicks sign in")
     public void userSignInWithValidCredentials() throws IOException {
