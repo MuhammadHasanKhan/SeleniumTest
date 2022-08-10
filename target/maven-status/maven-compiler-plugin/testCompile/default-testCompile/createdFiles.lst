@@ -1,0 +1,4 @@
+Common/Config.class
+Browser/Platform.class
+PageFactory/PF_Steps.class
+StepDefinition/RegistrationSteps.class
